@@ -16,9 +16,9 @@ class QuizController extends GetxController{
     QuestionModel(
       id: 1,
       question:
-          "Best Channel for Flutter ",
+          " Who created Flutter? ",
       answer: 2,
-      options: ['Sec it', 'Sec it developer', 'sec it developers', 'mesh sec it '],
+      options: ['Facebook', 'Adobe', 'Google', 'Microsoft '],
     ),
     QuestionModel(
       id: 2,
@@ -28,9 +28,9 @@ class QuizController extends GetxController{
     ),
     QuestionModel(
       id: 3,
-      question: "Best Flutter dev",
+      question: "What is Flutter",
       answer: 2,
-      options: ['sherif', 'sherif ahmed', 'ahmed sherif', 'doc sherif'],
+      options: ['Android Development Kit', 'IOS Development Kit', 'Web Development Kit', 'SDK to build beautiful IOS, Android, Web & Desktop Native Apps', 'non of these'],
     ),
     QuestionModel(
       id: 4,
