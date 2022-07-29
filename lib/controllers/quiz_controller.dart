@@ -34,7 +34,7 @@ class QuizController extends GetxController{
     ),
     QuestionModel(
       id: 4,
-      question: "Sherif is",
+      question: "mohamed yasser nabit is",
       answer: 1,
       options: ['eng', 'Doc', 'eng/Doc', 'Doc/Eng'],
     ),
@@ -47,15 +47,15 @@ class QuizController extends GetxController{
     ),
     QuestionModel(
       id: 6,
-      question: "Real Name of ahmed sherif",
-      answer: 2,
-      options: ['ahmed sherif', 'sherif', 'Haytham', 'NONE OF ABOVE'],
+      question: "Who created Dart programing language?",
+      answer: 1,
+      options: ['Lars Bak and Kasper Lund', 'Brendan Eich', 'Bjarne Stroustrup', 'Jeremy Ashkenas'],
     ),
     QuestionModel(
       id: 7,
-      question: "Sherif love",
+      question: "mohamed love",
       answer: 3,
-      options: ['Pharma', 'Micro', 'Medicnal', 'NONE OF ABOVE'],
+      options: ['volyball', 'programming', 'football', 'NONE OF ABOVE'],
     ),
     QuestionModel(
       id: 8,
@@ -68,7 +68,7 @@ class QuizController extends GetxController{
       question:
       "Best Channel for Flutter ",
       answer: 2,
-      options: ['Sec it', 'Sec it developer', 'sec it developers', 'mesh sec it '],
+      options: ['Sec it', 'code to start', 'abdallh mansour', 'non of above '],
     ),
     QuestionModel(
       id: 10,
